@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 2, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I learned about difference between percentages and fixed width in CSS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Also learned about NoSQL relationships, some mongoDB query modifiers (limit - skip), and update operators ($lte - $gte - $in - $text) and search indexing.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I enjoyed the CSS part cuz I'm a CSS noob, and I think im familiar with different relationships in mongoDB as well and I've leveled my skills up :grin:.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** [MongoDB relationships](https://github.com/menaaziz27/MongoDB-relationships)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [responsive layouts day 1](https://github.com/menaaziz27/conquer-responsive-layouts/tree/master/Day1)
