@@ -11,3 +11,11 @@ Also learned about NoSQL relationships, some mongoDB query modifiers (limit - sk
 **Link to work:** [MongoDB relationships](https://github.com/menaaziz27/MongoDB-relationships)
 
 **Link to work:** [responsive layouts day 1](https://github.com/menaaziz27/conquer-responsive-layouts/tree/master/Day1)
+
+### Day 2: April 3, 2021
+
+**Today's Progress**: I've put my knowledge into practice. Worked on a live search engine made with ExpressJS, MongoDB, JQuery and Ajax. Also I've spent 5 hr coding towards my
+@WakaTime
+and didn't finish the project yet.
+
+**Thoughts:** It was a tough day but I'm happy with my results till now :grin:.
