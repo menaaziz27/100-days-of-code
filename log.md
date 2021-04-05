@@ -19,3 +19,11 @@ Also learned about NoSQL relationships, some mongoDB query modifiers (limit - sk
 and didn't finish the project yet.
 
 **Thoughts:** It was a tough day but I'm happy with my results till now :grin:.
+
+### Day 3: April 4, 2021
+
+**Today's Progress**: I've finished 1 chapter of my javascript and JQuery book, learned the difference between em and rem in CSS and worked for a while on a task for my graduation project.
+
+Also made so refresher of my React knowledge.
+
+**Thoughts:** I was stuck on the task of my graduation project but im happy with what we done today.
