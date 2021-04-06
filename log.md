@@ -27,3 +27,11 @@ and didn't finish the project yet.
 Also made so refresher of my React knowledge.
 
 **Thoughts:** I was stuck on the task of my graduation project but im happy with what we done today.
+
+### Day 4: April 5, 2021
+
+**Today's Progress**: I refreshed myself with React basics and played around with props system and children system .. Also worked on some problem solving and finally I coded 7 hrs towards my WakaTime goal of coding 2 hrs per day.
+
+also worked on ajax user search on my graduation project for 6 hours.
+
+**Thoughts:** cannot be more happy with my result! live search was a challenge for me but I did it 🤪
