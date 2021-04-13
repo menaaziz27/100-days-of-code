@@ -35,3 +35,25 @@ Also made so refresher of my React knowledge.
 also worked on ajax user search on my graduation project for 6 hours.
 
 **Thoughts:** cannot be more happy with my result! live search was a challenge for me but I did it 🤪
+
+### Day (5, 6): April (6, 7), 2021
+
+**Today's Progress**: I worked on the search feature for posts in my graduation project with aggregation and regular expression in mongo
+
+### Day 7: April 8, 2021
+
+**Today's Progress**: It was a React day today I've worked today on an old project that still not finished yet, learnt about this context in javascript and finally I coded 2 hrs 35 mins towards my @WakaTime goal of coding 2 hrs per day.
+
+also worked on ajax user search on my graduation project for 6 hours.
+
+### Day 8: April 9, 2021
+
+**Todays's Progress**: worked on my graduation project for 5: hrs 36 mins and solved two problems on codewars.
+
+### Day (9, 10): April (10, 11), 2021
+
+**Todays's Progress**: worked on some javascript problems and fixed some issues in my graduation project
+
+### Day 11: April 12, 2021
+
+**Todays's Progress**: i started to learn SQL and understood first problem solving pattern which is frequency counter pattern.
