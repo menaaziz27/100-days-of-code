@@ -57,3 +57,22 @@ also worked on ajax user search on my graduation project for 6 hours.
 ### Day 11: April 12, 2021
 
 **Todays's Progress**: i started to learn SQL and understood first problem solving pattern which is frequency counter pattern.
+
+### Day 12: April 13, 2021
+
+**Todays's Progress**: I worked a bit with Pugjs, solved one problem on
+LeetCode and coded 6 hrs towars my
+@WakaTime goal of coding 2 hrs per day.
+
+### Day 13: April 14, 2021
+
+**Todays's Progress**: worked on the client side in my graduation project (DOM and ajax calls), deleted repetitive code, and added like feature for my blog posts
+
+### Day 14: April 15, 2021
+
+**Todays's Progress**: tried to implement share feature on my blog posts but there was a problem in selecting DOM elements idk why .. however I implemented my first search algorithm and coded 4 hrs 26 mins towards my
+@WakaTime goal of coding 2 hrs per day.
+
+### Day 15: April 16, 2021
+
+**Todays's Progress**: Have been implementing a comment system in my blog posts and still didn't finish it yet.
